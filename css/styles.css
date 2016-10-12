@@ -1,0 +1,46 @@
+.image2{
+  float: right;
+}
+.about-us{
+  text-align: center;
+  font-size: 18px;
+  color: white;
+  background-color: black;
+  opacity: .7;
+  margin-top: -20px;
+  padding-top: 15px;
+}
+.about{
+  text-align: center;
+  color: white;
+  margin-top: 120px;
+}
+.image1{
+  float: right;
+  opacity: 1;
+}
+
+.sidebar{
+  float:left;
+  color: white;
+  background-color: black;
+  opacity: .7;
+  background-color: black;
+  opacity: .7;
+}
+h2{
+  text-align: center;
+  background-color: black;
+  opacity: .7;
+}
+body{
+  margin-left: 5%;
+  margin-right: 5%;
+  background-image: url("http://i1095.photobucket.com/albums/i480/RocKnocks/2013%20Music%20Albums%20Cover/mechanicalbull_zpsf96a8034.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: sans-serif;
+}
+li{
+  margin-bottom: 10px;
+}
